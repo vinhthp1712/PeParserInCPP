@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\vinht\source\repos\Parse PE File\Parse PE File\main.cpp(81,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'ULONGLONG'
+C:\Users\vinht\source\repos\Parse PE File\Parse PE File\main.cpp(81,9): message : consider using '%llx' in the format string
+C:\Users\vinht\source\repos\Parse PE File\Parse PE File\main.cpp(81,9): message : consider using '%I64x' in the format string
+C:\Users\vinht\source\repos\Parse PE File\Parse PE File\main.cpp(96,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'ULONGLONG'
+C:\Users\vinht\source\repos\Parse PE File\Parse PE File\main.cpp(96,9): message : consider using '%llx' in the format string
+C:\Users\vinht\source\repos\Parse PE File\Parse PE File\main.cpp(96,9): message : consider using '%I64x' in the format string
+C:\Users\vinht\source\repos\Parse PE File\Parse PE File\main.cpp(97,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'ULONGLONG'
+C:\Users\vinht\source\repos\Parse PE File\Parse PE File\main.cpp(97,9): message : consider using '%llx' in the format string
+C:\Users\vinht\source\repos\Parse PE File\Parse PE File\main.cpp(97,9): message : consider using '%I64x' in the format string
+C:\Users\vinht\source\repos\Parse PE File\Parse PE File\main.cpp(98,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'ULONGLONG'
+C:\Users\vinht\source\repos\Parse PE File\Parse PE File\main.cpp(98,9): message : consider using '%llx' in the format string
+C:\Users\vinht\source\repos\Parse PE File\Parse PE File\main.cpp(98,9): message : consider using '%I64x' in the format string
+C:\Users\vinht\source\repos\Parse PE File\Parse PE File\main.cpp(99,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'ULONGLONG'
+C:\Users\vinht\source\repos\Parse PE File\Parse PE File\main.cpp(99,9): message : consider using '%llx' in the format string
+C:\Users\vinht\source\repos\Parse PE File\Parse PE File\main.cpp(99,9): message : consider using '%I64x' in the format string
+  Parse PE File.vcxproj -> C:\Users\vinht\source\repos\Parse PE File\Debug\Parse PE File.exe
